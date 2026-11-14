@@ -1,0 +1,8 @@
+/client/
+/recipes/
+/server/
+/.vscode/
+/.idea/
+.DS_Store
+.env
+.env.*
